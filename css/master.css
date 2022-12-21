@@ -1,0 +1,23 @@
+.customisation_navbar
+{
+    /* background-color: #cfd0e3 !important; */
+    font-family: 'Nunito Sans', sans-serif !important;
+    font-size: x-large !important;
+    text-decoration: solid !important;
+    position: absolute !important;
+    margin: 1rem auto !important; 
+
+}
+
+.navbar_div
+{
+    text-align: center !important;
+    position: relative !important;
+    width: 90%;
+    margin: 0 auto !important;
+}
+
+.home-page
+{
+    /* background-color: #cccccc; */
+}
