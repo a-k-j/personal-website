@@ -21,3 +21,9 @@
 {
     /* background-color: #cccccc; */
 }
+
+.home-bg-image
+{
+    position: absolute;
+    z-index: -1;
+}
